@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754389495192",
+    "project_id": "drawling-5bf5a",
+    "storage_bucket": "drawling-5bf5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754389495192:android:b8202605b38d976e304fed",
+        "android_client_info": {
+          "package_name": "com.drawling.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzTVQ_jgkAd9bxW8G-GF2Bge6BJcgDuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
